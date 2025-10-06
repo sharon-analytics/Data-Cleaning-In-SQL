@@ -8,4 +8,4 @@ Cleaned and prepared the layoffs dataset by removing duplicates, fixing inconsis
 - Ensured data accuracy and consistency for exploration  
 
 ## 🗂️ SQL Script
-[View SQL Script](./Data_Cleaning.sql)
+[View SQL Script](https://github.com/sharon-analytics/Data-Cleaning-In-SQL/blob/main/layoffs%20project.sql)
